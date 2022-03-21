@@ -1,6 +1,6 @@
 # 2021-Machine-Learning-projects
-####NTU 2021 Machine Learning spring course instructed by Prof. Hung-Yi, Lee
-####During the course, we've implemented the following Deep learning topic projects:
+#### NTU 2021 Machine Learning spring course instructed by Prof. Hung-Yi, Lee
+#### During the course, we've implemented the following Deep learning topic projects:
 
 * Hw1. Regression: COVID-19 Cases Prediction
 * Hw2. Classification: Phoneme Classification
